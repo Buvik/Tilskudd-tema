@@ -25,9 +25,17 @@
         "$type": "color",
         "$value": "{color.accent.surface-active}"
       },
+      "border-negative": {
+        "$type": "color",
+        "$value": "{color.accent.border-negative}"
+      },
       "border-subtle": {
         "$type": "color",
         "$value": "{color.accent.border-subtle}"
+      },
+      "border-active": {
+        "$type": "color",
+        "$value": "{color.accent.border-active}"
       },
       "border-default": {
         "$type": "color",
@@ -36,6 +44,10 @@
       "border-strong": {
         "$type": "color",
         "$value": "{color.accent.border-strong}"
+      },
+      "border-strong-hover": {
+        "$type": "color",
+        "$value": "{color.accent.border-strong-hover}"
       },
       "text-subtle": {
         "$type": "color",
