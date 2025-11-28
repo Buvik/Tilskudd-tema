@@ -56,14 +56,6 @@
       "14": {
         "$type": "color",
         "$value": "#C9D1D6"
-      },
-      "15": {
-        "$type": "color",
-        "$value": "#B3C2CC"
-      },
-      "16": {
-        "$type": "color",
-        "$value": "#FAFDFF"
       }
     },
     "neutral": {
@@ -122,14 +114,6 @@
       "14": {
         "$type": "color",
         "$value": "#CBD6CA"
-      },
-      "15": {
-        "$type": "color",
-        "$value": "#B7C7B7"
-      },
-      "16": {
-        "$type": "color",
-        "$value": "#FAFDFF"
       }
     },
     "info": {
@@ -188,14 +172,6 @@
       "14": {
         "$type": "color",
         "$value": "#DAC3F4"
-      },
-      "15": {
-        "$type": "color",
-        "$value": "#CAA8F0"
-      },
-      "16": {
-        "$type": "color",
-        "$value": "#FAFDFF"
       }
     },
     "success": {
@@ -254,14 +230,6 @@
       "14": {
         "$type": "color",
         "$value": "#ACFCCC"
-      },
-      "15": {
-        "$type": "color",
-        "$value": "#9AD6B6"
-      },
-      "16": {
-        "$type": "color",
-        "$value": "#FAFDFF"
       }
     },
     "warning": {
@@ -320,14 +288,6 @@
       "14": {
         "$type": "color",
         "$value": "#FEEA98"
-      },
-      "15": {
-        "$type": "color",
-        "$value": "#F5D245"
-      },
-      "16": {
-        "$type": "color",
-        "$value": "#FFFFFF"
       }
     },
     "danger": {
@@ -386,14 +346,6 @@
       "14": {
         "$type": "color",
         "$value": "#FFC2D0"
-      },
-      "15": {
-        "$type": "color",
-        "$value": "#FFADC4"
-      },
-      "16": {
-        "$type": "color",
-        "$value": "#FFFFFF"
       }
     },
     "link": {
